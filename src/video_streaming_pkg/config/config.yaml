@@ -1,0 +1,4 @@
+# config.yaml
+video_stream_topic: "/video_stream"
+publish_delay_ms: 10  # 延时，单位为毫秒
+
